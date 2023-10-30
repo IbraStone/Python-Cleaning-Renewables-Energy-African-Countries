@@ -26,11 +26,11 @@ For the data cleaning project, the following tools and libraries were used:
 # Data Cleaning Process
 The data cleaning process involved the following steps:
 
-Data Understanding - The dataset was thoroughly examined to understand the structure, columns and their meanings. The data did not have a data dictionary attached. With the help of online sources I was able to create one that helped me gain an understanding of what all the columns represented.
-Data Exploration - Exploratory Data Analysis was performed to gain insights into the data, identify patterns and uncover anomalies.
-Handling missing values - Through the EDA performed, I quickly realised there was a valid reason for the missing values all columns. The year columns represented were the most to have missing values.
-Standardizing formatting - Inconsistent formatting issues eg the values in all columns that were stored with different units were resolved by applying transformations and  data normalization techniques.
-Validation and quality checks - The cleaned dataset underwent rigorous validation to ensure the quality, accuracy and integrity of the data.
+- Data Understanding - The dataset was thoroughly examined to understand the structure, columns and their meanings. The data did not have a data dictionary attached. With the help of online sources I was able to create one that helped me gain an understanding of what all the columns represented.
+- Data Exploration - Exploratory Data Analysis was performed to gain insights into the data, identify patterns and uncover anomalies.
+- Handling missing values - Through the EDA performed, I quickly realised there was a valid reason for the missing values all columns. The year columns represented were the most to have missing values.
+- Standardizing formatting - Inconsistent formatting issues eg the values in all columns that were stored with different units were resolved by applying transformations and  data normalization techniques.
+- Validation and quality checks - The cleaned dataset underwent rigorous validation to ensure the quality, accuracy and integrity of the data.
 
 # Documentation
 For detailed information about the data cleaning process, please refer to the Jupyter notebooks provided in the repository. It contains step by step explanations, code samples and documentation showing each stage of the data cleaning process. 
