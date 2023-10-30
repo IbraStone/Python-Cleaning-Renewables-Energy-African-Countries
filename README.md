@@ -9,10 +9,10 @@ The Renewables Energy African Countries dataset used in this project was obtaine
 # Issues found in the data
 During the initial exploration and analysis of the Renewables-Energy-African-Countries dataset, several issues were identified including:
 - Raw dataset - Unnecessary data no needed.
-- Duplicate values - Some columns had duplicats values which required to remove to maintained th data integrity.
+- Duplicate values - Some columns had duplicated values which required to remove to maintained th data integrity.
 - Missing values - All columns had missing values which required careful handling and computation.
 - Inconsistent formatting - This was observed across different columns making it necessary to standardize the data for consistency.
-- Dropped 30 columns in order to have some consistent data for the analysis.
+- Dropped 30 columns in order to have consistenty in the dataset for the analysis.
 
 # Tools Used
 For the data cleaning project, the following tools and libraries were used:
